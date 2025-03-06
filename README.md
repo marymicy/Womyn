@@ -1,6 +1,6 @@
 # Womyn
 
-Our website aims to empower women by providing comprehensive education and tools for
+This website aims to empower women by providing comprehensive education and tools for
 understanding and tracking their menstrual cycles. Our primary objective is to enhance
 awareness about menstrual health, ensuring women have the knowledge to monitor their
 reproductive health effectively and make informed decisions. We strive to develop

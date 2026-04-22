@@ -1,4 +1,4 @@
-# Womyn: Menstrual Health and Awareness Platform
+# Womyn: Reproductive Health and Awareness Platform
 
 Womyn is a digital ecosystem designed to empower women through education and practical health-tracking tools. The platform provides users with the knowledge to monitor their reproductive health and identifies patterns to help make informed wellness decisions.
 
